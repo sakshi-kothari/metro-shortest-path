@@ -18,8 +18,7 @@ Welcome to the **Bangalore Metro Shortest Path Finder** project! This web applic
 
 ## How to Use
 
-1. **Open the Application:** Visit our website [here](metro-shortest-path-lac.vercel.app
-) to access the Bangalore Metro Shortest Path Finder.
+1. **Open the Application:** Visit our website [here] to access the Bangalore Metro Shortest Path Finder.
 
 2. **Select Stations:** Enter your starting station and your destination station in the designated input fields.
 
