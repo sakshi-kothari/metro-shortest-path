@@ -38,15 +38,7 @@ Welcome to the **Bangalore Metro Shortest Path Finder** project! This web applic
 
 - **Interactive Map:** The interactive map is powered by JavaScript libraries to provide a dynamic and informative user experience.
 
-## Contribution
 
-We welcome contributions to enhance this project! If you have ideas for new features, spot any issues, or want to improve the code, please feel free to [create an issue](https://github.com/Venkateeshh/Metro-Shortest-Path/issues) or submit a pull request.
 
-> **Note**\
-> This repo is using prettier as code formatter. Please make sure you run `npx prettier . --write` before you're create a PR.
 
-## Contact Us
 
-If you have any questions, suggestions, or feedback, please don't hesitate to [contact ]. We'd love to hear from you!
-
-Happy commuting with the Bangalore Metro Shortest Path Finder! 🚇
